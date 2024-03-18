@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sammy02 3D print model
+* source:	https://sketchfab.com/3d-models/sammy02-3d-print-model-15d85a42ebfb4f729fea05f421ea9202
+* author:	3DLadnik (https://sketchfab.com/3DLadnik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sammy02 3D print model" (https://sketchfab.com/3d-models/sammy02-3d-print-model-15d85a42ebfb4f729fea05f421ea9202) by 3DLadnik (https://sketchfab.com/3DLadnik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
